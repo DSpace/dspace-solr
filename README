@@ -11,4 +11,4 @@ http://maven.apache.org/plugins/maven-war-plugin/overlays.html
 
 This project has been created under an alternate groupId to 
 be supported within the DSpace community and distributed 
-within the the 'org.dspace' groupId.
+within the 'org.dspace' groupId.
